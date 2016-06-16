@@ -22,7 +22,7 @@
 
 * 32) Use el comando *git reflog* para sacar la lista de movimientos entre commits, y apuntando hacia el primer commit de todos usé *git reset --hard* 
 
-*33) Como anteriormente sólo habiamos movido el HEAD hacia el commit inicial, ahora simplemente haciendo un *git checkout master* nos moveremos a la rama master que se encuentra en el final.
+* 33) Como anteriormente sólo habiamos movido el HEAD hacia el commit inicial, ahora simplemente haciendo un *git checkout master* nos moveremos a la rama master que se encuentra en el final.
 
 
 
